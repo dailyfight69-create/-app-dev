@@ -14,4 +14,4 @@ Hi! My name is **Dion Mhark Cuevas**. Welcome to my GitHub profile!
 - **Epic Storytelling:** Each part has is unique .
 - **Memorable Characters:** From Jonathan Joestar to Jotaro Kujo and beyond.
 
-![OIF](https://github.com/user-attachments/assets/7aa08f05-bcf7-41ec-8fe8-9130bef99b92)
+
