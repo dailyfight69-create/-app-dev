@@ -11,6 +11,8 @@ Hi! My name is **Dion Mhark Cuevas**. Welcome to my GitHub profile!
 ### Why I Love JoJo’s Bizarre Adventure
 - **Unique Art Style:** The characters and poses are iconic and instantly recognizable.
 - **Creative Powers:** The series features "Stands," supernatural manifestations of fighting spirit with a wide variety of abilities.
-- **Epic Storytelling:** Each part has its own unique tone, setting, and villain, keeping the series fresh and exciting.
-- **Memorable Characters:** From Jonathan Joestar to Jotaro Kujo and beyond, each JoJo leaves a lasting impression.
+- **Epic Storytelling:** Each part has is unique .
+- **Memorable Characters:** From Jonathan Joestar to Jotaro Kujo and beyond.
 
+	![alt text](![OIF](https://github.com/user-attachments/assets/7aa08f05-bcf7-41ec-8fe8-9130bef99b92)
+.jpg)
