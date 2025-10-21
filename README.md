@@ -15,4 +15,3 @@ Hi! My name is **Dion Mhark Cuevas**. Welcome to my GitHub profile!
 - **Memorable Characters:** From Jonathan Joestar to Jotaro Kujo and beyond.
 
 ![OIF](https://github.com/user-attachments/assets/b5faa201-6827-4d86-a8d8-f2b378484f33)
-
